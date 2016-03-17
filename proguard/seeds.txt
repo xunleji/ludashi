@@ -1,0 +1,292 @@
+com.juzi.main.JuZiUrl
+com.juzi.main.JuZiUrl: android.webkit.WebView a
+com.juzi.main.JuZiUrl: android.content.Context b
+com.juzi.main.JuZiUrl: org.apache.http.client.methods.HttpPost c
+com.juzi.main.JuZiUrl: com.juzi.main.az d
+com.juzi.main.JuZiUrl: com.juzi.main.w e
+com.juzi.main.JuZiUrl: java.lang.String f
+com.juzi.main.JuZiUrl: JuZiUrl(android.webkit.WebView,android.content.Context,com.juzi.main.w,java.lang.String)
+com.juzi.main.JuZiUrl: void pageReload()
+com.juzi.main.JuZiUrl: boolean getPackagename(java.lang.String)
+com.juzi.main.JuZiUrl: java.lang.String getPackageTime(java.lang.String)
+com.juzi.main.JuZiUrl: java.lang.String getPackageVersion(java.lang.String)
+com.juzi.main.JuZiUrl: void oPenApplication(java.lang.String)
+com.juzi.main.JuZiUrl: java.lang.String getAppId()
+com.juzi.main.JuZiUrl: java.lang.String getMarkId()
+com.juzi.main.JuZiUrl: java.lang.String getStrOpt()
+com.juzi.main.JuZiUrl: java.lang.String getSDK()
+com.juzi.main.JuZiUrl: java.lang.String getRelease()
+com.juzi.main.JuZiUrl: java.lang.String getBrand()
+com.juzi.main.JuZiUrl: java.lang.String getModel()
+com.juzi.main.JuZiUrl: java.lang.String getImei()
+com.juzi.main.JuZiUrl: java.lang.String getImsi()
+com.juzi.main.JuZiUrl: java.lang.String getFlowNumber()
+com.juzi.main.JuZiUrl: void customReturn(java.lang.String)
+com.juzi.main.JuZiUrl: java.lang.String getSDKNumber()
+com.juzi.main.JuZiUrl: void cleanRms()
+com.juzi.main.JuZiUrl: void cleanWebCache()
+com.juzi.main.JuZiUrl: void closeWebview()
+com.juzi.main.JuZiUrl: java.lang.String getData(java.lang.String,java.lang.String)
+com.juzi.main.JuZiUrl: void stopDown()
+com.juzi.main.JuZiUrl: java.lang.String getProgress()
+com.juzi.main.JuZiUrl: java.lang.String getCpaData()
+com.juzi.main.JuZiUrl: void deleteCpa()
+com.juzi.main.JuZiUrl: java.lang.String netType()
+com.juzi.main.JuZiUrl: java.lang.String usrData()
+com.juzi.main.JuZiUrl: void oponeNetwork()
+com.juzi.main.JuZiUrl: void oponeSet(java.lang.String)
+com.juzi.main.JuZiUrl: java.lang.String a(java.lang.String,java.lang.String)
+com.juzi.main.JuZiUrl: boolean deleteAllApk()
+com.juzi.main.JuZiUrl: java.lang.String getDownID()
+com.juzi.main.JuZiUrl: java.lang.String getDowned()
+com.juzi.main.JuZiUrl: void setAppid(java.lang.String,java.lang.String,java.lang.String,java.lang.String)
+com.juzi.main.DownManagement
+com.juzi.main.DownManagement: com.juzi.main.w a
+com.juzi.main.DownManagement: android.app.Dialog b
+com.juzi.main.DownManagement: DownManagement()
+com.juzi.main.DownManagement: void onCreate(android.os.Bundle)
+com.juzi.main.DownManagement: void onDestroy()
+com.juzi.main.DownManagement: com.juzi.main.w a(com.juzi.main.DownManagement)
+com.juzi.main.DownManagement: void b(com.juzi.main.DownManagement)
+com.juzi.main.DownManagement: android.app.Dialog c(com.juzi.main.DownManagement)
+com.juzi.main.TheAdVirtualGoods
+com.juzi.main.TheAdVirtualGoods: boolean m
+com.juzi.main.TheAdVirtualGoods: android.widget.LinearLayout$LayoutParams n
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout$LayoutParams o
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout$LayoutParams a
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout$LayoutParams p
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout q
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag r
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag s
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag t
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag u
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag v
+com.juzi.main.TheAdVirtualGoods: java.lang.String w
+com.juzi.main.TheAdVirtualGoods: boolean x
+com.juzi.main.TheAdVirtualGoods: boolean y
+com.juzi.main.TheAdVirtualGoods: android.widget.TextView z
+com.juzi.main.TheAdVirtualGoods: android.widget.ImageButton b
+com.juzi.main.TheAdVirtualGoods: android.widget.ImageButton c
+com.juzi.main.TheAdVirtualGoods: android.widget.Button d
+com.juzi.main.TheAdVirtualGoods: android.widget.Button e
+com.juzi.main.TheAdVirtualGoods: android.widget.ListView f
+com.juzi.main.TheAdVirtualGoods: android.widget.TextView g
+com.juzi.main.TheAdVirtualGoods: android.widget.BaseAdapter h
+com.juzi.main.TheAdVirtualGoods: android.widget.BaseAdapter i
+com.juzi.main.TheAdVirtualGoods: java.lang.String A
+com.juzi.main.TheAdVirtualGoods: int B
+com.juzi.main.TheAdVirtualGoods: int C
+com.juzi.main.TheAdVirtualGoods: int D
+com.juzi.main.TheAdVirtualGoods: int E
+com.juzi.main.TheAdVirtualGoods: int F
+com.juzi.main.TheAdVirtualGoods: int G
+com.juzi.main.TheAdVirtualGoods: int H
+com.juzi.main.TheAdVirtualGoods: int I
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.TheAdVirtualGoods J
+com.juzi.main.TheAdVirtualGoods: int K
+com.juzi.main.TheAdVirtualGoods: int L
+com.juzi.main.TheAdVirtualGoods: int max
+com.juzi.main.TheAdVirtualGoods: int sw
+com.juzi.main.TheAdVirtualGoods: int sh
+com.juzi.main.TheAdVirtualGoods: java.lang.String M
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] N
+com.juzi.main.TheAdVirtualGoods: android.graphics.Bitmap[] O
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] P
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] Q
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] R
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] S
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] T
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] U
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] V
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] W
+com.juzi.main.TheAdVirtualGoods: android.graphics.Bitmap[] X
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] Y
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] Z
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] aa
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] ab
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] ac
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] ad
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] ae
+com.juzi.main.TheAdVirtualGoods: java.lang.String af
+com.juzi.main.TheAdVirtualGoods: java.lang.String ag
+com.juzi.main.TheAdVirtualGoods: int ah
+com.juzi.main.TheAdVirtualGoods: float[] j
+com.juzi.main.TheAdVirtualGoods: float[] k
+com.juzi.main.TheAdVirtualGoods: float[] l
+com.juzi.main.TheAdVirtualGoods: boolean icnplay
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout ai
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout aj
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.bt ak
+com.juzi.main.TheAdVirtualGoods: int al
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout am
+com.juzi.main.TheAdVirtualGoods: void <clinit>()
+com.juzi.main.TheAdVirtualGoods: TheAdVirtualGoods()
+com.juzi.main.TheAdVirtualGoods: void onCreate(android.os.Bundle)
+com.juzi.main.TheAdVirtualGoods: void onConfigurationChanged(android.content.res.Configuration)
+com.juzi.main.TheAdVirtualGoods: boolean onKeyDown(int,android.view.KeyEvent)
+com.juzi.main.TheAdVirtualGoods: void a(int)
+com.juzi.main.TheAdVirtualGoods: void a(android.widget.LinearLayout,int)
+com.juzi.main.TheAdVirtualGoods: void hintBox(java.lang.String)
+com.juzi.main.TheAdVirtualGoods: org.json.JSONObject a()
+com.juzi.main.TheAdVirtualGoods: android.graphics.Bitmap a(java.lang.String)
+com.juzi.main.TheAdVirtualGoods: void a(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: void a(com.juzi.main.TheAdVirtualGoods,boolean)
+com.juzi.main.TheAdVirtualGoods: void b(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: void c(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: void d(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: void e(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: int f(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] g(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] h(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] i(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.TheAdVirtualGoods j(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout k(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout l(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: android.widget.RelativeLayout m(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: int n(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] o(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: android.widget.TextView p(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] q(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: void b(com.juzi.main.TheAdVirtualGoods,boolean)
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag r(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag s(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag t(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: com.juzi.main.ag u(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: void a(com.juzi.main.TheAdVirtualGoods,android.view.View,int)
+com.juzi.main.TheAdVirtualGoods: android.graphics.Bitmap[] v(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] w(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] x(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] y(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] z(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: android.graphics.Bitmap[] A(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] B(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] C(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] D(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: void a(com.juzi.main.TheAdVirtualGoods,java.lang.String)
+com.juzi.main.TheAdVirtualGoods: void a(com.juzi.main.TheAdVirtualGoods,int)
+com.juzi.main.TheAdVirtualGoods: void b(com.juzi.main.TheAdVirtualGoods,int)
+com.juzi.main.TheAdVirtualGoods: void b(com.juzi.main.TheAdVirtualGoods,java.lang.String)
+com.juzi.main.TheAdVirtualGoods: void c(com.juzi.main.TheAdVirtualGoods,java.lang.String)
+com.juzi.main.TheAdVirtualGoods: java.lang.String E(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String[] F(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: int G(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.TheAdVirtualGoods: java.lang.String H(com.juzi.main.TheAdVirtualGoods)
+com.juzi.main.AppConnect
+com.juzi.main.AppConnect: com.juzi.main.a a
+com.juzi.main.AppConnect: android.content.Context context
+com.juzi.main.AppConnect: int juzigole
+com.juzi.main.AppConnect: com.juzi.main.AppConnect b
+com.juzi.main.AppConnect: java.lang.String usrdata
+com.juzi.main.AppConnect: java.lang.String appid_a
+com.juzi.main.AppConnect: java.lang.String marketid_a
+com.juzi.main.AppConnect: long appcountTime
+com.juzi.main.AppConnect: boolean findtime
+com.juzi.main.AppConnect: com.juzi.main.JuZiListener mr
+com.juzi.main.AppConnect: com.juzi.main.ap c
+com.juzi.main.AppConnect: com.juzi.main.e addpackage
+com.juzi.main.AppConnect: boolean wallsound
+com.juzi.main.AppConnect: void <clinit>()
+com.juzi.main.AppConnect: AppConnect(android.content.Context)
+com.juzi.main.AppConnect: com.juzi.main.AppConnect getInstance(android.content.Context)
+com.juzi.main.AppConnect: com.juzi.main.AppConnect getInstance(android.content.Context,java.lang.String)
+com.juzi.main.AppConnect: void setAppid(java.lang.String,java.lang.String)
+com.juzi.main.AppConnect: void setMethodRewrite(com.juzi.main.JuZiListener)
+com.juzi.main.AppConnect: void register()
+com.juzi.main.AppConnect: void showGoodsWall(android.app.Activity)
+com.juzi.main.AppConnect: void showGoodsWall(android.app.Activity,java.lang.String)
+com.juzi.main.AppConnect: void showOffers(android.content.Context)
+com.juzi.main.AppConnect: void showMore(android.content.Context)
+com.juzi.main.AppConnect: void setPlayAbTime(int)
+com.juzi.main.AppConnect: void adDestroyed()
+com.juzi.main.AppConnect: void adStop()
+com.juzi.main.AppConnect: void adResume()
+com.juzi.main.AppConnect: java.lang.String getDataSMS()
+com.juzi.main.AppConnect: java.lang.String getData(java.lang.String)
+com.juzi.main.AppConnect: void showAlipay(java.lang.String,java.lang.String,java.lang.String,android.os.Handler)
+com.juzi.main.AppConnect: java.lang.String showAlipay(java.lang.String,java.lang.String,java.lang.String)
+com.juzi.main.AppConnect: void showWall()
+com.juzi.main.AppConnect: void showJuZiPlay(java.lang.String)
+com.juzi.main.AppConnect: void showAdFull(android.content.Context)
+com.juzi.main.AppConnect: java.lang.String getPoints()
+com.juzi.main.AppConnect: java.lang.String getPoints(android.content.Context)
+com.juzi.main.AppConnect: java.lang.String spendPoints(int,android.content.Context)
+com.juzi.main.AppConnect: java.lang.String spendPoints(int)
+com.juzi.main.AppConnect: java.lang.String action(java.lang.String)
+com.juzi.main.AppConnect: void setImageId(int[])
+com.juzi.main.AppConnect: void wallSound(boolean)
+com.juzi.main.AppConnect: void playNotificationAd(android.content.Context)
+com.juzi.main.AppConnect: void playNotificationAd(android.content.Context,int,boolean)
+com.juzi.main.AppConnect: void finalize()
+com.juzi.main.JuZiListener
+com.juzi.main.JuZiListener: JuZiListener()
+com.juzi.main.JuZiListener: void setBannerShow(android.content.Context)
+com.juzi.main.JuZiListener: void setShowOffers(android.content.Context)
+com.juzi.main.JuZiListener: void setShowMore(android.content.Context)
+com.juzi.main.JuZiListener: void setShowFeedback(android.content.Context)
+com.juzi.main.JuZiListener: void setLogin(android.content.Context)
+com.juzi.main.JuZiListener: void setShowAdFull(android.content.Context)
+com.juzi.main.JuZiListener: void customReturn(java.lang.String)
+com.juzi.main.JuZiListener: void rewardReturn(java.lang.String)
+com.juzi.main.WebActivity
+com.juzi.main.WebActivity: android.webkit.WebView a
+com.juzi.main.WebActivity: android.widget.LinearLayout$LayoutParams d
+com.juzi.main.WebActivity: android.widget.RelativeLayout$LayoutParams e
+com.juzi.main.WebActivity: com.juzi.main.WebActivity b
+com.juzi.main.WebActivity: java.lang.String f
+com.juzi.main.WebActivity: java.lang.String c
+com.juzi.main.WebActivity: com.juzi.main.w downloader
+com.juzi.main.WebActivity: com.juzi.main.ay g
+com.juzi.main.WebActivity: WebActivity()
+com.juzi.main.WebActivity: void onCreate(android.os.Bundle)
+com.juzi.main.WebActivity: void a(boolean)
+com.juzi.main.WebActivity: boolean onCreateOptionsMenu(android.view.Menu)
+com.juzi.main.WebActivity: void onResume()
+com.juzi.main.WebActivity: void onDestroy()
+com.juzi.main.WebActivity: boolean onKeyDown(int,android.view.KeyEvent)
+com.juzi.main.WebActivity: com.juzi.main.ay a(com.juzi.main.WebActivity)
+com.juzi.main.WriteLoe
+com.juzi.main.WriteLoe: java.text.SimpleDateFormat a
+com.juzi.main.WriteLoe: java.lang.String b
+com.juzi.main.WriteLoe: WriteLoe()
+com.juzi.main.WriteLoe: void getLoe()
+com.juzi.main.WriteLoe: void writeData(java.lang.String,java.lang.String)
+com.juzi.main.WriteLoe: void a()
+com.juzi.main.WriteLoe: java.lang.String getAppTime()
+com.juzi.main.AdView
+com.juzi.main.AdView: com.juzi.main.AdView adview
+com.juzi.main.AdView: com.juzi.main.aj a
+com.juzi.main.AdView: android.content.Context b
+com.juzi.main.AdView: AdView(android.content.Context)
+com.juzi.main.AdView: AdView(android.content.Context,android.util.AttributeSet)
+com.juzi.main.AdView: void onDetachedFromWindow()
+com.juzi.main.AdView: void onAttachedToWindow()
+com.ludashi.adapter.PullToRefreshAdapterViewBase
+com.ludashi.adapter.PullToRefreshAdapterViewBase: PullToRefreshAdapterViewBase(android.content.Context,android.util.AttributeSet)
+com.ludashi.adapter.PullToRefreshBase: PullToRefreshBase(android.content.Context,android.util.AttributeSet)
+com.ludashi.mains.FlingGalleryView
+com.ludashi.mains.FlingGalleryView: FlingGalleryView(android.content.Context,android.util.AttributeSet)
+com.ludashi.adapter.PullToRefreshGridView
+com.ludashi.adapter.PullToRefreshGridView: PullToRefreshGridView(android.content.Context,android.util.AttributeSet)
+com.ludashi.adapter.PullToRefreshAdapterViewBase: PullToRefreshAdapterViewBase(android.content.Context,android.util.AttributeSet)
+com.ludashi.adapter.PullToRefreshBase: PullToRefreshBase(android.content.Context,android.util.AttributeSet)
+com.ludashi.adapter.PullToRefreshBase
+com.ludashi.adapter.PullToRefreshBase: PullToRefreshBase(android.content.Context,android.util.AttributeSet)
+com.ludashi.mains.CustomTxtView
+com.ludashi.mains.CustomTxtView: CustomTxtView(android.content.Context,android.util.AttributeSet)
+com.ludashi.tool.DetialGallery
+com.ludashi.tool.DetialGallery: DetialGallery(android.content.Context,android.util.AttributeSet)
+com.juzi.main.AdView
+com.juzi.main.AdView: AdView(android.content.Context,android.util.AttributeSet)
+com.ludashi.mains.FlingGalleryView
+com.ludashi.mains.FlingGalleryView: FlingGalleryView(android.content.Context,android.util.AttributeSet,int)
+com.ludashi.tool.DetialGallery
+com.ludashi.tool.DetialGallery: DetialGallery(android.content.Context,android.util.AttributeSet,int)
+com.ludashi.mains.ReadImage
+com.juzi.main.DownManagement
+com.juzi.main.TheAdVirtualGoods
+com.ludashi.mains.ReadBook
+com.ludashi.mains.SearchActivity
+com.juzi.main.WebActivity
+com.ludashi.mains.LuDaShiActivity
+com.ludashi.mains.BookMarkActivity
+com.ludashi.mains.ReadBook: void onClick(android.view.View)

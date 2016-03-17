@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">撸大师</string>
+    <string name="app_names">是否退出应用</string>
+    <!-- 书签管理定义  -->
+    <string name="bookmark_txt_title">书签管理</string>
+    <string name="bookmark_btn_add">添加书签</string>
+    <string name="bookmark_btn_clear">清空书签</string>
+    <string name="bookmark_btn_go">去往书签</string>
+    <string name="management_about">更多</string>
+    <string name="management_out">退出</string>
+    <string name="title_new">推荐书本</string>
+    <string name="title_calss">内容分类</string>
+    <string name="title_down">下载管理</string>
+    <!--万普  -->
+    <string name="offerList">Offers</string>
+    <string name="popAd">PopAd</string>
+    <string name="gameOfferList">GameOffers</string>
+    <string name="appOfferList">AppOffers</string>
+    <string name="spendPoints">SpendPoints(-10)</string>
+    <string name="awardPoints">AwardPoints(+10)</string>
+    <string name="feedback">Feedback</string>
+    <string name="moreApps">MoreApps(list)</string>
+    <string name="ownAppDetail">OwnApp(one)</string>
+    <string name="diyAd">DiyAd</string>
+    <string name="diyAdList">DiyAdList</string>
+    <string name="checkUpdate">CheckUpdate</string>
+</resources>

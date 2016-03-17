@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@drawable/wenzhangbg"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+
+    <RelativeLayout
+        android:id="@+id/read_book_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="36dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/bottom" >
+
+	  	<Button 
+	  		android:id="@+id/viewtxt_pre_button" 
+	  		android:layout_width="wrap_content" 
+	  		android:layout_height="wrap_content" 
+	  		android:text="上一页" 
+	  		android:textSize="18dp"
+	  		android:padding="2dp"
+	  		android:textColor="@color/blake"
+	  		android:layout_alignParentLeft="true"
+	  		android:layout_centerVertical="true"
+	  		android:background="@drawable/button"
+	  		/> 	
+	  		
+	  	<Button 
+	  		android:id="@+id/viewtxt_next_button" 
+	  		android:layout_width="wrap_content" 
+	  		android:layout_height="wrap_content" 
+	  		android:text="下一页" 
+	  	    android:textSize="18dp"
+	  	    android:padding="2dp"
+	  	    android:textColor="@color/blake"
+	  		android:layout_alignParentRight="true"
+	  		android:layout_centerVertical="true"
+	  		 android:background="@drawable/button"
+	  		/>
+
+	  	<TextView
+	  	    android:id="@+id/textView_book"
+	  	    android:layout_width="wrap_content"
+	  	    android:layout_height="wrap_content"
+	  	    android:layout_alignBaseline="@+id/viewtxt_next_button"
+	  	    android:layout_alignBottom="@+id/viewtxt_next_button"
+	  	    android:layout_centerHorizontal="true"
+	  	    android:text=""
+	  	    android:textColor="@color/text"
+	  	    android:textSize="14dp" />
+	  		
+  </RelativeLayout>	
+        <com.ludashi.mains.CustomTxtView
+  		android:id="@+id/viewtxt_main_view" 
+  		android:layout_height="fill_parent" 
+  		android:layout_width="fill_parent" 
+  		android:singleLine="false" 
+  		android:padding="5dp"
+  		android:scrollbars="vertical"
+  		android:layout_above="@+id/read_book_bg"
+  		/>
+    
+</RelativeLayout>

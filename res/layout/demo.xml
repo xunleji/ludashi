@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <Button 
+        android:id="@+id/demobtn1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="得到货币"/>
+    <Button 
+        android:id="@+id/demobtn2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="花费货币"/>
+    <Button 
+        android:id="@+id/demobtn3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="奖励货币"/>
+    <Button 
+        android:id="@+id/demobtn4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="推荐软件列表"/>
+    <Button 
+        android:id="@+id/demobtn5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="推荐游戏列表"/>
+    <Button 
+        android:id="@+id/demobtn6"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="广告墙"/>
+    <Button 
+        android:id="@+id/demobtn7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""/>
+    <Button 
+        android:id="@+id/demobtn8"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text=""/>
+
+</LinearLayout>

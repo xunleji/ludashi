@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#ffffff">
+
+    <RelativeLayout 
+        android:id="@+id/down_item"
+        android:layout_width="fill_parent"
+        android:layout_height="80dp"
+        >
+        <RelativeLayout 
+            android:id="@+id/down_item_rl1"
+            android:layout_width="80dp"
+            android:layout_height="80dp">
+
+	        <ImageView
+	            android:id="@+id/downitemiv"
+	            android:layout_width="55dp"
+	            android:layout_height="60dp"
+	            android:layout_centerInParent="true"
+	            android:src="@drawable/image_book" />
+        
+        </RelativeLayout>
+        
+        <RelativeLayout 
+            android:id="@+id/down_item_rl2"
+            android:layout_toRightOf="@+id/down_item_rl1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+	        
+            <RelativeLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/downrl1"
+                android:layout_marginTop="8dp">
+                
+                <TextView
+                    android:id="@+id/down_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:text="louis koo"
+                    android:textColor="@color/blake" />
+                
+            </RelativeLayout>
+            
+            <RelativeLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/downrl2"
+                android:layout_below="@+id/downrl1">
+                
+            </RelativeLayout>
+                
+            <RelativeLayout 
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/downrl3"
+                android:layout_below="@+id/downrl2">
+                
+                <LinearLayout 
+                    android:id="@+id/downrl4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/downiv3"
+                    android:paddingTop="5dp">
+                
+                <Button
+                    android:id="@+id/pause"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button"
+                    android:text="打开"
+                    android:paddingTop="4dp"
+                    android:paddingBottom="4dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:textSize="16dp" />
+
+                <Button
+                    android:id="@+id/delete"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/button"
+                    android:text="删除"
+                    android:paddingTop="4dp"
+                    android:paddingBottom="4dp"
+                    android:paddingLeft="8dp"
+                    android:paddingRight="8dp"
+                    android:textSize="16dp" />
+                
+                </LinearLayout>
+                
+                <RelativeLayout 
+                    android:id="@+id/downrl5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/downrl4">
+                
+                </RelativeLayout>
+                
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+    
+
+</LinearLayout>

@@ -1,0 +1,1478 @@
+com.juzi.main.AdView -> com.juzi.main.AdView:
+    com.juzi.main.AdView adview -> adview
+    com.juzi.main.aj a -> a
+    android.content.Context b -> b
+    void onDetachedFromWindow() -> onDetachedFromWindow
+    void onAttachedToWindow() -> onAttachedToWindow
+com.juzi.main.AppConnect -> com.juzi.main.AppConnect:
+    com.juzi.main.a a -> a
+    android.content.Context context -> context
+    int juzigole -> juzigole
+    com.juzi.main.AppConnect b -> b
+    java.lang.String usrdata -> usrdata
+    java.lang.String appid_a -> appid_a
+    java.lang.String marketid_a -> marketid_a
+    long appcountTime -> appcountTime
+    boolean findtime -> findtime
+    com.juzi.main.JuZiListener mr -> mr
+    com.juzi.main.ap c -> c
+    com.juzi.main.e addpackage -> addpackage
+    boolean wallsound -> wallsound
+    com.juzi.main.AppConnect getInstance(android.content.Context) -> getInstance
+    com.juzi.main.AppConnect getInstance(android.content.Context,java.lang.String) -> getInstance
+    void setAppid(java.lang.String,java.lang.String) -> setAppid
+    void setMethodRewrite(com.juzi.main.JuZiListener) -> setMethodRewrite
+    void register() -> register
+    void showGoodsWall(android.app.Activity) -> showGoodsWall
+    void showGoodsWall(android.app.Activity,java.lang.String) -> showGoodsWall
+    void showOffers(android.content.Context) -> showOffers
+    void showMore(android.content.Context) -> showMore
+    void setPlayAbTime(int) -> setPlayAbTime
+    void adDestroyed() -> adDestroyed
+    void adStop() -> adStop
+    void adResume() -> adResume
+    java.lang.String getDataSMS() -> getDataSMS
+    java.lang.String getData(java.lang.String) -> getData
+    void showAlipay(java.lang.String,java.lang.String,java.lang.String,android.os.Handler) -> showAlipay
+    java.lang.String showAlipay(java.lang.String,java.lang.String,java.lang.String) -> showAlipay
+    void showWall() -> showWall
+    void showJuZiPlay(java.lang.String) -> showJuZiPlay
+    void showAdFull(android.content.Context) -> showAdFull
+    java.lang.String getPoints() -> getPoints
+    java.lang.String getPoints(android.content.Context) -> getPoints
+    java.lang.String spendPoints(int,android.content.Context) -> spendPoints
+    java.lang.String spendPoints(int) -> spendPoints
+    java.lang.String action(java.lang.String) -> action
+    void setImageId(int[]) -> setImageId
+    void wallSound(boolean) -> wallSound
+    void playNotificationAd(android.content.Context) -> playNotificationAd
+    void playNotificationAd(android.content.Context,int,boolean) -> playNotificationAd
+    void finalize() -> finalize
+com.juzi.main.DownManagement -> com.juzi.main.DownManagement:
+    com.juzi.main.w a -> a
+    android.app.Dialog b -> b
+    void onCreate(android.os.Bundle) -> onCreate
+    void onDestroy() -> onDestroy
+    com.juzi.main.w a(com.juzi.main.DownManagement) -> a
+    void b(com.juzi.main.DownManagement) -> b
+    android.app.Dialog c(com.juzi.main.DownManagement) -> c
+com.juzi.main.JuZiListener -> com.juzi.main.JuZiListener:
+    void setBannerShow(android.content.Context) -> setBannerShow
+    void setShowOffers(android.content.Context) -> setShowOffers
+    void setShowMore(android.content.Context) -> setShowMore
+    void setShowFeedback(android.content.Context) -> setShowFeedback
+    void setLogin(android.content.Context) -> setLogin
+    void setShowAdFull(android.content.Context) -> setShowAdFull
+    void customReturn(java.lang.String) -> customReturn
+    void rewardReturn(java.lang.String) -> rewardReturn
+com.juzi.main.JuZiUrl -> com.juzi.main.JuZiUrl:
+    android.webkit.WebView a -> a
+    android.content.Context b -> b
+    org.apache.http.client.methods.HttpPost c -> c
+    com.juzi.main.az d -> d
+    com.juzi.main.w e -> e
+    java.lang.String f -> f
+    void pageReload() -> pageReload
+    boolean getPackagename(java.lang.String) -> getPackagename
+    java.lang.String getPackageTime(java.lang.String) -> getPackageTime
+    java.lang.String getPackageVersion(java.lang.String) -> getPackageVersion
+    void oPenApplication(java.lang.String) -> oPenApplication
+    java.lang.String getAppId() -> getAppId
+    java.lang.String getMarkId() -> getMarkId
+    java.lang.String getStrOpt() -> getStrOpt
+    java.lang.String getSDK() -> getSDK
+    java.lang.String getRelease() -> getRelease
+    java.lang.String getBrand() -> getBrand
+    java.lang.String getModel() -> getModel
+    java.lang.String getImei() -> getImei
+    java.lang.String getImsi() -> getImsi
+    java.lang.String getFlowNumber() -> getFlowNumber
+    void customReturn(java.lang.String) -> customReturn
+    java.lang.String getSDKNumber() -> getSDKNumber
+    void cleanRms() -> cleanRms
+    void cleanWebCache() -> cleanWebCache
+    void closeWebview() -> closeWebview
+    java.lang.String getData(java.lang.String,java.lang.String) -> getData
+    void stopDown() -> stopDown
+    java.lang.String getProgress() -> getProgress
+    java.lang.String getCpaData() -> getCpaData
+    void deleteCpa() -> deleteCpa
+    java.lang.String netType() -> netType
+    java.lang.String usrData() -> usrData
+    void oponeNetwork() -> oponeNetwork
+    void oponeSet(java.lang.String) -> oponeSet
+    java.lang.String a(java.lang.String,java.lang.String) -> a
+    boolean deleteAllApk() -> deleteAllApk
+    java.lang.String getDownID() -> getDownID
+    java.lang.String getDowned() -> getDowned
+    void setAppid(java.lang.String,java.lang.String,java.lang.String,java.lang.String) -> setAppid
+com.juzi.main.TheAdVirtualGoods -> com.juzi.main.TheAdVirtualGoods:
+    boolean m -> m
+    android.widget.LinearLayout$LayoutParams n -> n
+    android.widget.RelativeLayout$LayoutParams o -> o
+    android.widget.RelativeLayout$LayoutParams a -> a
+    android.widget.RelativeLayout$LayoutParams p -> p
+    android.widget.RelativeLayout q -> q
+    com.juzi.main.ag r -> r
+    com.juzi.main.ag s -> s
+    com.juzi.main.ag t -> t
+    com.juzi.main.ag u -> u
+    com.juzi.main.ag v -> v
+    java.lang.String w -> w
+    boolean x -> x
+    boolean y -> y
+    android.widget.TextView z -> z
+    android.widget.ImageButton b -> b
+    android.widget.ImageButton c -> c
+    android.widget.Button d -> d
+    android.widget.Button e -> e
+    android.widget.ListView f -> f
+    android.widget.TextView g -> g
+    android.widget.BaseAdapter h -> h
+    android.widget.BaseAdapter i -> i
+    java.lang.String A -> A
+    int B -> B
+    int C -> C
+    int D -> D
+    int E -> E
+    int F -> F
+    int G -> G
+    int H -> H
+    int I -> I
+    com.juzi.main.TheAdVirtualGoods J -> J
+    int K -> K
+    int L -> L
+    int max -> max
+    int sw -> sw
+    int sh -> sh
+    java.lang.String M -> M
+    java.lang.String[] N -> N
+    android.graphics.Bitmap[] O -> O
+    java.lang.String[] P -> P
+    java.lang.String[] Q -> Q
+    java.lang.String[] R -> R
+    java.lang.String[] S -> S
+    java.lang.String[] T -> T
+    java.lang.String[] U -> U
+    java.lang.String[] V -> V
+    java.lang.String[] W -> W
+    android.graphics.Bitmap[] X -> X
+    java.lang.String[] Y -> Y
+    java.lang.String[] Z -> Z
+    java.lang.String[] aa -> aa
+    java.lang.String[] ab -> ab
+    java.lang.String[] ac -> ac
+    java.lang.String[] ad -> ad
+    java.lang.String[] ae -> ae
+    java.lang.String af -> af
+    java.lang.String ag -> ag
+    int ah -> ah
+    float[] j -> j
+    float[] k -> k
+    float[] l -> l
+    boolean icnplay -> icnplay
+    android.widget.RelativeLayout ai -> ai
+    android.widget.RelativeLayout aj -> aj
+    com.juzi.main.bt ak -> ak
+    int al -> al
+    android.widget.RelativeLayout am -> am
+    void onCreate(android.os.Bundle) -> onCreate
+    void onConfigurationChanged(android.content.res.Configuration) -> onConfigurationChanged
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    void a(int) -> a
+    void a(android.widget.LinearLayout,int) -> a
+    void hintBox(java.lang.String) -> hintBox
+    org.json.JSONObject a() -> a
+    android.graphics.Bitmap a(java.lang.String) -> a
+    void a(com.juzi.main.TheAdVirtualGoods) -> a
+    void a(com.juzi.main.TheAdVirtualGoods,boolean) -> a
+    void b(com.juzi.main.TheAdVirtualGoods) -> b
+    void c(com.juzi.main.TheAdVirtualGoods) -> c
+    void d(com.juzi.main.TheAdVirtualGoods) -> d
+    void e(com.juzi.main.TheAdVirtualGoods) -> e
+    int f(com.juzi.main.TheAdVirtualGoods) -> f
+    java.lang.String[] g(com.juzi.main.TheAdVirtualGoods) -> g
+    java.lang.String[] h(com.juzi.main.TheAdVirtualGoods) -> h
+    java.lang.String[] i(com.juzi.main.TheAdVirtualGoods) -> i
+    com.juzi.main.TheAdVirtualGoods j(com.juzi.main.TheAdVirtualGoods) -> j
+    android.widget.RelativeLayout k(com.juzi.main.TheAdVirtualGoods) -> k
+    android.widget.RelativeLayout l(com.juzi.main.TheAdVirtualGoods) -> l
+    android.widget.RelativeLayout m(com.juzi.main.TheAdVirtualGoods) -> m
+    int n(com.juzi.main.TheAdVirtualGoods) -> n
+    java.lang.String[] o(com.juzi.main.TheAdVirtualGoods) -> o
+    android.widget.TextView p(com.juzi.main.TheAdVirtualGoods) -> p
+    java.lang.String[] q(com.juzi.main.TheAdVirtualGoods) -> q
+    void b(com.juzi.main.TheAdVirtualGoods,boolean) -> b
+    com.juzi.main.ag r(com.juzi.main.TheAdVirtualGoods) -> r
+    com.juzi.main.ag s(com.juzi.main.TheAdVirtualGoods) -> s
+    com.juzi.main.ag t(com.juzi.main.TheAdVirtualGoods) -> t
+    com.juzi.main.ag u(com.juzi.main.TheAdVirtualGoods) -> u
+    void a(com.juzi.main.TheAdVirtualGoods,android.view.View,int) -> a
+    android.graphics.Bitmap[] v(com.juzi.main.TheAdVirtualGoods) -> v
+    java.lang.String[] w(com.juzi.main.TheAdVirtualGoods) -> w
+    java.lang.String[] x(com.juzi.main.TheAdVirtualGoods) -> x
+    java.lang.String[] y(com.juzi.main.TheAdVirtualGoods) -> y
+    java.lang.String[] z(com.juzi.main.TheAdVirtualGoods) -> z
+    android.graphics.Bitmap[] A(com.juzi.main.TheAdVirtualGoods) -> A
+    java.lang.String[] B(com.juzi.main.TheAdVirtualGoods) -> B
+    java.lang.String[] C(com.juzi.main.TheAdVirtualGoods) -> C
+    java.lang.String[] D(com.juzi.main.TheAdVirtualGoods) -> D
+    void a(com.juzi.main.TheAdVirtualGoods,java.lang.String) -> a
+    void a(com.juzi.main.TheAdVirtualGoods,int) -> a
+    void b(com.juzi.main.TheAdVirtualGoods,int) -> b
+    void b(com.juzi.main.TheAdVirtualGoods,java.lang.String) -> b
+    void c(com.juzi.main.TheAdVirtualGoods,java.lang.String) -> c
+    java.lang.String E(com.juzi.main.TheAdVirtualGoods) -> E
+    java.lang.String[] F(com.juzi.main.TheAdVirtualGoods) -> F
+    int G(com.juzi.main.TheAdVirtualGoods) -> G
+    java.lang.String H(com.juzi.main.TheAdVirtualGoods) -> H
+com.juzi.main.WebActivity -> com.juzi.main.WebActivity:
+    android.webkit.WebView a -> a
+    android.widget.LinearLayout$LayoutParams d -> d
+    android.widget.RelativeLayout$LayoutParams e -> e
+    com.juzi.main.WebActivity b -> b
+    java.lang.String f -> f
+    java.lang.String c -> c
+    com.juzi.main.w downloader -> downloader
+    com.juzi.main.ay g -> g
+    void onCreate(android.os.Bundle) -> onCreate
+    void a(boolean) -> a
+    boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    void onResume() -> onResume
+    void onDestroy() -> onDestroy
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    com.juzi.main.ay a(com.juzi.main.WebActivity) -> a
+com.juzi.main.WriteLoe -> com.juzi.main.WriteLoe:
+    java.text.SimpleDateFormat a -> a
+    java.lang.String b -> b
+    void getLoe() -> getLoe
+    void writeData(java.lang.String,java.lang.String) -> writeData
+    void a() -> a
+    java.lang.String getAppTime() -> getAppTime
+com.juzi.main.a -> com.juzi.main.ca:
+    com.juzi.main.an a -> a
+    java.lang.String b -> b
+    java.lang.Boolean c -> c
+    int d -> d
+    int e -> e
+    java.lang.String f -> f
+    java.lang.String g -> g
+    java.lang.String h -> h
+    java.lang.String i -> i
+    java.lang.String s -> s
+    java.lang.String j -> j
+    java.lang.String k -> k
+    java.lang.String l -> l
+    boolean m -> m
+    android.content.Context n -> n
+    java.lang.String o -> o
+    java.lang.String p -> p
+    java.lang.String q -> q
+    com.juzi.main.az r -> r
+    long t -> t
+    void a() -> a
+    org.json.JSONObject a(boolean) -> a
+    java.lang.String a(java.lang.String,java.lang.String) -> b
+    org.json.JSONObject a(com.juzi.main.a,boolean) -> a
+    java.lang.String a$1081ac92(java.lang.String,java.lang.String) -> a
+com.juzi.main.aa -> com.juzi.main.m:
+    android.content.Context a -> a
+    void run() -> run
+com.juzi.main.ab -> com.juzi.main.y:
+    com.juzi.main.w a -> a
+    void run() -> run
+com.juzi.main.ac -> com.juzi.main.x:
+    boolean b -> b
+    com.juzi.main.w a -> a
+    java.lang.String c -> c
+    java.lang.String d -> d
+    java.lang.String e -> e
+    void run() -> run
+com.juzi.main.ad -> com.juzi.main.w:
+    com.juzi.main.ac a -> a
+    void run() -> run
+com.juzi.main.ae -> com.juzi.main.v:
+    long[] a -> a
+    int b -> b
+    long a() -> a
+com.juzi.main.af -> com.juzi.main.ac:
+    java.lang.ClassLoader a -> a
+    com.juzi.main.ah b(java.lang.String) -> b
+    java.io.InputStream a(java.lang.String) -> a
+com.juzi.main.ag -> com.juzi.main.ab:
+    android.graphics.Bitmap a -> a
+    java.lang.String a(java.lang.String) -> a
+    com.juzi.main.ag b(java.lang.String) -> b
+    android.graphics.Bitmap a() -> a
+com.juzi.main.ah -> com.juzi.main.aa:
+    byte[] a -> a
+    int b -> b
+    void a(java.io.InputStream) -> a
+    void a() -> a
+    byte[] b() -> b
+com.juzi.main.ai -> com.juzi.main.z:
+    java.lang.String a -> a
+    java.lang.String b -> b
+    java.lang.String c -> c
+    int d -> d
+    void a(java.lang.String) -> a
+    void a() -> a
+com.juzi.main.aj -> com.juzi.main.q:
+    android.content.Context a -> a
+    java.lang.String b -> b
+    java.lang.String c -> c
+    float d -> d
+    int e -> e
+    int m -> i
+    boolean f -> j
+    int g -> f
+    int h -> g
+    float i -> k
+    float j -> l
+    float k -> m
+    boolean n -> n
+    android.os.HandlerThread o -> o
+    com.juzi.main.aj p -> p
+    com.juzi.main.d l -> h
+    com.juzi.main.am q -> q
+    void a() -> a
+    void a(int) -> a
+    void b() -> b
+    void c() -> c
+    void d() -> d
+com.juzi.main.ak -> com.juzi.main.p:
+    void run() -> run
+com.juzi.main.al -> com.juzi.main.o:
+    void run() -> run
+com.juzi.main.am -> com.juzi.main.n:
+    com.juzi.main.aj a -> a
+    void handleMessage(android.os.Message) -> handleMessage
+com.juzi.main.an -> com.juzi.main.u:
+    java.lang.String a -> a
+    java.lang.String b -> b
+    java.lang.String c -> c
+    java.lang.String d -> d
+    java.lang.String l -> k
+    java.lang.String e -> e
+    java.lang.String f -> f
+    java.lang.String g -> g
+    java.lang.String h -> h
+    java.lang.String i -> l
+    java.lang.String j -> i
+    int k -> j
+    int m -> m
+    android.content.Context n -> n
+    java.lang.String o -> o
+    int a() -> a
+    java.lang.String b() -> b
+    java.lang.String c() -> c
+    java.lang.String e() -> e
+    int a(java.lang.String) -> a
+    java.lang.String d() -> d
+    boolean a(android.content.Context) -> a
+com.juzi.main.ao -> com.juzi.main.t:
+    char[] a -> a
+    java.lang.String a(byte[]) -> a
+    java.lang.String a(java.lang.String) -> a
+com.juzi.main.ap -> com.juzi.main.s:
+    boolean a -> a
+    java.net.Proxy b -> b
+    int c -> c
+    int d -> d
+    void a(android.content.Context) -> a
+    void a(android.content.Context,java.lang.String,java.lang.String,java.lang.String,android.os.Handler) -> a
+    void b(android.content.Context) -> b
+    void a(android.content.Context,java.lang.String) -> a
+    java.lang.String a(android.content.Context,java.lang.String,java.lang.String,java.lang.String) -> a
+    void c(android.content.Context) -> c
+    void d(android.content.Context) -> d
+    org.json.JSONObject a() -> a
+    org.json.JSONObject a(java.lang.String) -> a
+    boolean b(java.lang.String) -> b
+    boolean a(java.lang.String,java.lang.String) -> a
+    void a(com.juzi.main.ap,boolean) -> a
+    boolean a(com.juzi.main.ap,java.lang.String,java.lang.String) -> a
+com.juzi.main.aq -> com.juzi.main.r:
+    android.content.Context a -> a
+    void run() -> run
+com.juzi.main.ar -> com.juzi.main.ak:
+    com.juzi.main.ap a -> a
+    android.os.Handler b -> b
+    android.content.Context c -> c
+    void run() -> run
+com.juzi.main.as -> com.juzi.main.al:
+    com.juzi.main.ar a -> a
+    android.content.Context b -> b
+    void run() -> run
+com.juzi.main.at -> com.juzi.main.am:
+    java.lang.String a -> a
+    java.lang.String b -> b
+    java.lang.String a() -> a
+    java.lang.String a(android.content.Context) -> a
+    java.lang.String a(org.json.JSONArray) -> a
+    java.lang.String a(android.content.Context,int,java.lang.String) -> a
+    java.lang.String a(int,java.lang.String) -> a
+    java.lang.String a(java.lang.String) -> a
+    java.lang.String b(int,java.lang.String) -> b
+    java.lang.String b(java.lang.String) -> b
+    java.lang.String b() -> b
+    java.lang.String c(java.lang.String) -> c
+    java.lang.String c() -> c
+com.juzi.main.au -> com.juzi.main.an:
+    android.content.Context a -> a
+    android.app.ProgressDialog b -> b
+    void run() -> run
+com.juzi.main.av -> com.juzi.main.ag:
+    android.content.Context a -> a
+    android.app.ProgressDialog b -> b
+    void run() -> run
+com.juzi.main.aw -> com.juzi.main.ah:
+    android.content.Context a -> a
+    android.app.ProgressDialog b -> b
+    void run() -> run
+com.juzi.main.ax -> com.juzi.main.ai:
+    android.app.NotificationManager a -> a
+    android.app.PendingIntent b -> b
+    android.app.Notification c -> c
+    int d -> d
+    boolean e -> e
+    android.content.Context f -> f
+    java.lang.String g -> g
+    java.lang.String h -> h
+    java.lang.String i -> i
+    java.lang.String j -> j
+    java.lang.String k -> k
+    void a(android.content.Context,int,boolean) -> a
+    org.json.JSONObject a() -> a
+com.juzi.main.ay -> com.juzi.main.aj:
+    int a -> a
+    int b -> b
+    int c -> c
+    android.graphics.RectF d -> d
+    android.graphics.Paint e -> e
+    void a(int) -> a
+    void onDraw(android.graphics.Canvas) -> onDraw
+com.juzi.main.az -> com.juzi.main.af:
+    android.content.Context a -> a
+    java.lang.String a(android.content.Context) -> a
+    void a(java.lang.String) -> a
+    void a() -> a
+    java.lang.String b() -> b
+    void b(java.lang.String) -> b
+    java.lang.String c() -> c
+    void a(java.lang.String,java.lang.String) -> a
+    java.lang.String c(java.lang.String) -> c
+    void d(java.lang.String) -> d
+    void b(java.lang.String,java.lang.String) -> b
+    java.lang.String e(java.lang.String) -> e
+    void f(java.lang.String) -> f
+com.juzi.main.b -> com.juzi.main.cb:
+    com.juzi.main.a a -> a
+    void run() -> run
+com.juzi.main.ba -> com.juzi.main.ad:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    android.app.ProgressDialog b -> b
+    void run() -> run
+com.juzi.main.bb -> com.juzi.main.ae:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+com.juzi.main.bc -> com.juzi.main.bb:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.juzi.main.bd -> com.juzi.main.ba:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.juzi.main.be -> com.juzi.main.bd:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    android.view.View b -> b
+    int c -> c
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.juzi.main.bf -> com.juzi.main.bc:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    java.lang.String b -> b
+    void run() -> run
+com.juzi.main.bg -> com.juzi.main.ax:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    java.lang.String b -> b
+    void run() -> run
+com.juzi.main.bh -> com.juzi.main.aw:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+    com.juzi.main.TheAdVirtualGoods a(com.juzi.main.bh) -> a
+com.juzi.main.bi -> com.juzi.main.az:
+    com.juzi.main.bh a -> a
+    android.app.ProgressDialog b -> b
+    void run() -> run
+com.juzi.main.bj -> com.juzi.main.ay:
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.juzi.main.bk -> com.juzi.main.at:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    android.widget.RelativeLayout b -> b
+    void onClick(android.view.View) -> onClick
+    com.juzi.main.TheAdVirtualGoods a(com.juzi.main.bk) -> a
+com.juzi.main.bl -> com.juzi.main.as:
+    com.juzi.main.bk a -> a
+    void run() -> run
+com.juzi.main.bm -> com.juzi.main.av:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    void run() -> run
+com.juzi.main.bn -> com.juzi.main.au:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    int b -> b
+    void run() -> run
+com.juzi.main.bo -> com.juzi.main.ap:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    void run() -> run
+com.juzi.main.bp -> com.juzi.main.ao:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.juzi.main.bq -> com.juzi.main.ar:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.juzi.main.br -> com.juzi.main.aq:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.juzi.main.bs -> com.juzi.main.bm:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+com.juzi.main.bt -> com.juzi.main.bn:
+    com.juzi.main.TheAdVirtualGoods a -> a
+    void handleMessage(android.os.Message) -> handleMessage
+    com.juzi.main.TheAdVirtualGoods a(com.juzi.main.bt) -> a
+com.juzi.main.bu -> com.juzi.main.bk:
+    com.juzi.main.bt a -> a
+    void run() -> run
+com.juzi.main.bv -> com.juzi.main.bl:
+    com.juzi.main.ca a -> a
+    boolean b -> b
+    int c -> c
+    android.graphics.Bitmap d -> d
+    android.content.Context e -> e
+    int f -> f
+    int g -> g
+    void a() -> a
+    void b() -> b
+    void a(java.lang.String) -> a
+    java.io.InputStream b(java.lang.String) -> b
+    void onMeasure(int,int) -> onMeasure
+    void onDraw(android.graphics.Canvas) -> onDraw
+    void run() -> run
+com.juzi.main.bw -> com.juzi.main.bi:
+    com.juzi.main.WebActivity a -> a
+    boolean shouldOverrideUrlLoading(android.webkit.WebView,java.lang.String) -> shouldOverrideUrlLoading
+    void onPageStarted(android.webkit.WebView,java.lang.String,android.graphics.Bitmap) -> onPageStarted
+    void onPageFinished(android.webkit.WebView,java.lang.String) -> onPageFinished
+    void onReceivedError(android.webkit.WebView,int,java.lang.String,java.lang.String) -> onReceivedError
+com.juzi.main.bx -> com.juzi.main.bj:
+    com.juzi.main.WebActivity a -> a
+    void onProgressChanged(android.webkit.WebView,int) -> onProgressChanged
+com.juzi.main.by -> com.juzi.main.bg:
+    com.juzi.main.WebActivity a -> a
+    void onDownloadStart(java.lang.String,java.lang.String,java.lang.String,java.lang.String,long) -> onDownloadStart
+com.juzi.main.bz -> com.juzi.main.bh:
+    com.juzi.main.WebActivity a -> a
+    boolean onMenuItemClick(android.view.MenuItem) -> onMenuItemClick
+com.juzi.main.c -> com.juzi.main.bw:
+    com.juzi.main.a a -> a
+    void run() -> run
+com.juzi.main.ca -> com.juzi.main.bf:
+    int a -> a
+    java.io.InputStream b -> b
+    int c -> c
+    int d -> d
+    boolean e -> e
+    int f -> f
+    int[] g -> g
+    int[] h -> h
+    int[] i -> i
+    int j -> j
+    int k -> k
+    int l -> l
+    boolean m -> m
+    boolean n -> n
+    int o -> o
+    int p -> p
+    int q -> q
+    int r -> r
+    int s -> s
+    int t -> t
+    int u -> u
+    int v -> v
+    int w -> w
+    android.graphics.Bitmap x -> x
+    android.graphics.Bitmap y -> y
+    int z -> z
+    byte[] A -> A
+    int B -> B
+    int C -> C
+    int D -> D
+    boolean E -> E
+    int F -> F
+    int G -> G
+    short[] H -> H
+    byte[] I -> I
+    byte[] J -> J
+    byte[] K -> K
+    java.util.Vector L -> L
+    int M -> M
+    android.graphics.Bitmap a() -> a
+    android.graphics.Bitmap a(int) -> a
+    android.graphics.Bitmap b() -> b
+    int c() -> c
+    int a(java.io.InputStream) -> a
+    boolean d() -> d
+    int e() -> e
+    int f() -> f
+    int[] b(int) -> b
+    void g() -> g
+    void h() -> h
+    void i() -> i
+    int j() -> j
+    void k() -> k
+com.juzi.main.cb -> com.juzi.main.be:
+    android.graphics.Bitmap a -> a
+    int b -> b
+com.juzi.main.d -> com.juzi.main.bx:
+    android.content.Context c -> c
+    java.lang.String d -> d
+    com.juzi.main.j e -> e
+    java.lang.String f -> f
+    int a -> a
+    int g -> g
+    int h -> h
+    com.juzi.main.d b -> b
+    void a() -> a
+    void b() -> b
+    org.json.JSONObject c() -> c
+com.juzi.main.e -> com.juzi.main.by:
+    boolean a -> a
+    com.juzi.main.az b -> b
+    void onReceive(android.content.Context,android.content.Intent) -> onReceive
+    org.json.JSONObject a(java.lang.String) -> a
+    com.juzi.main.az a(com.juzi.main.e) -> a
+    void a(com.juzi.main.e,com.juzi.main.az) -> a
+    void a(com.juzi.main.e,android.content.Context,java.lang.String) -> a
+com.juzi.main.f -> com.juzi.main.bz:
+    com.juzi.main.e a -> a
+    android.content.Context b -> b
+    android.content.Intent c -> c
+    void run() -> run
+com.juzi.main.g -> com.juzi.main.bs:
+    android.content.Context a -> a
+    java.lang.String b -> b
+    void run() -> run
+com.juzi.main.h -> com.juzi.main.bt:
+    android.content.Context a -> a
+    void run() -> run
+com.juzi.main.i -> com.juzi.main.bu:
+    android.content.Context a -> a
+    int b -> b
+    boolean c -> c
+    void run() -> run
+com.juzi.main.j -> com.juzi.main.bv:
+    android.graphics.Bitmap h -> h
+    java.lang.String i -> i
+    java.lang.String j -> j
+    java.lang.String k -> k
+    java.lang.String l -> l
+    java.lang.String m -> m
+    java.lang.String a -> a
+    int b -> b
+    com.juzi.main.ag n -> n
+    com.juzi.main.ag o -> o
+    com.juzi.main.ag c -> c
+    java.lang.String p -> p
+    java.lang.String q -> q
+    android.widget.RelativeLayout d -> d
+    android.content.Context r -> r
+    com.juzi.main.bv s -> s
+    com.juzi.main.az t -> t
+    int[] u -> u
+    float[] v -> v
+    android.widget.LinearLayout w -> w
+    android.widget.Button x -> x
+    com.juzi.main.w e -> e
+    boolean f -> f
+    long g -> g
+    void a(org.json.JSONObject) -> a
+    void a() -> a
+    int a(float) -> a
+    boolean a(java.lang.String) -> a
+    org.json.JSONObject c() -> b
+    android.content.Context a(com.juzi.main.j) -> a
+    void a(com.juzi.main.j,android.content.Context) -> a
+    int a(com.juzi.main.j,float) -> a
+    int a$3b4dfe58(int) -> a
+    android.graphics.drawable.GradientDrawable a(int,int,int,float,int,boolean,float[]) -> a
+    android.graphics.drawable.GradientDrawable a(int,float,int,float[]) -> a
+com.juzi.main.k -> com.juzi.main.bo:
+    com.juzi.main.j a -> a
+    void run() -> run
+com.juzi.main.l -> com.juzi.main.bp:
+    com.juzi.main.j a -> a
+    void run() -> run
+com.juzi.main.m -> com.juzi.main.bq:
+    com.juzi.main.j a -> a
+    void run() -> run
+com.juzi.main.n -> com.juzi.main.br:
+    com.juzi.main.j a -> a
+    void onClick(android.view.View) -> onClick
+com.juzi.main.o -> com.juzi.main.i:
+    void onClick(android.view.View) -> onClick
+com.juzi.main.p -> com.juzi.main.j:
+    com.juzi.main.n a -> a
+    void onClick(android.view.View) -> onClick
+com.juzi.main.q -> com.juzi.main.k:
+    void run() -> run
+com.juzi.main.r -> com.juzi.main.l:
+    char[] a -> a
+    byte[] b -> b
+    java.lang.String a(byte[]) -> a
+    byte[] a(java.lang.String) -> a
+com.juzi.main.s -> com.juzi.main.e:
+    int a -> a
+    int b -> b
+    int c -> c
+    int d -> d
+    int e -> e
+    int f -> f
+    int g -> g
+    int h -> h
+    int i -> i
+    int j -> j
+    int k -> k
+    int l -> l
+    int m -> m
+    int n -> n
+com.juzi.main.t -> com.juzi.main.f:
+    java.lang.String a -> a
+    void a(java.lang.Exception) -> a
+com.juzi.main.u -> com.juzi.main.g:
+    com.juzi.main.DownManagement a -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.juzi.main.v -> com.juzi.main.h:
+    com.juzi.main.DownManagement a -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.juzi.main.w -> com.juzi.main.a:
+    java.net.URL l -> l
+    android.content.Context a -> a
+    boolean b -> b
+    long m -> m
+    java.lang.String n -> n
+    int o -> o
+    android.content.Intent c -> c
+    java.lang.String d -> d
+    java.lang.String p -> p
+    java.lang.String q -> q
+    long r -> r
+    java.lang.String e -> e
+    java.lang.String f -> f
+    int s -> s
+    org.json.JSONArray g -> g
+    boolean h -> h
+    com.juzi.main.az t -> t
+    java.util.List i -> i
+    java.lang.String u -> u
+    java.text.DecimalFormat v -> v
+    java.lang.String w -> w
+    java.lang.String x -> x
+    int y -> y
+    java.io.RandomAccessFile z -> z
+    android.os.Handler A -> A
+    java.net.HttpURLConnection B -> B
+    android.app.NotificationManager j -> j
+    android.app.PendingIntent C -> C
+    android.app.Notification D -> D
+    java.lang.String k -> k
+    void a(android.content.Context,java.lang.String) -> a
+    void b(android.content.Context,java.lang.String) -> b
+    void a(android.content.Context,java.lang.String,java.lang.String,long) -> a
+    void a(java.lang.String) -> a
+    boolean b(java.lang.String) -> b
+    void a() -> a
+    java.lang.String b() -> b
+    void c(java.lang.String) -> c
+    boolean a(java.lang.String,java.lang.String) -> a
+    long c() -> c
+    void a(java.lang.String,java.lang.String,java.lang.String) -> a
+    android.os.Handler a(com.juzi.main.w) -> a
+    com.juzi.main.az b(com.juzi.main.w) -> b
+    void a(com.juzi.main.w,java.net.HttpURLConnection) -> a
+    java.io.RandomAccessFile c(com.juzi.main.w) -> c
+    java.net.HttpURLConnection d(com.juzi.main.w) -> d
+    void a(com.juzi.main.w,java.io.RandomAccessFile) -> a
+    void a(com.juzi.main.w,java.net.URL) -> a
+    java.net.URL e(com.juzi.main.w) -> e
+    void a(com.juzi.main.w,long) -> a
+    long f(com.juzi.main.w) -> f
+    java.lang.String g(com.juzi.main.w) -> g
+    void a(com.juzi.main.w,java.lang.String,java.lang.String,java.lang.String) -> a
+    void a(com.juzi.main.w,int) -> a
+    int h(com.juzi.main.w) -> h
+    void b(com.juzi.main.w,long) -> b
+    void b(com.juzi.main.w,int) -> b
+    long i(com.juzi.main.w) -> i
+    java.text.DecimalFormat j(com.juzi.main.w) -> j
+    int k(com.juzi.main.w) -> k
+    boolean a(com.juzi.main.w,java.lang.String,java.lang.String) -> a
+    java.lang.String l(com.juzi.main.w) -> l
+    void a(com.juzi.main.w,java.lang.String) -> a
+com.juzi.main.x -> com.juzi.main.b:
+    com.juzi.main.w a -> a
+    java.lang.String b -> b
+    android.content.Context c -> c
+    void run() -> run
+com.juzi.main.y -> com.juzi.main.c:
+    android.content.Context a -> a
+    void run() -> run
+com.juzi.main.z -> com.juzi.main.d:
+    android.content.Context a -> a
+    void run() -> run
+com.ludashi.adapter.BookAdapter -> com.ludashi.adapter.r:
+    android.content.Context context -> a
+    org.json.JSONArray data -> b
+    int ty -> c
+    android.graphics.Bitmap[] icon -> d
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    void onConnectionEndListener() -> a
+    org.json.JSONArray upData(org.json.JSONArray) -> a
+    org.json.JSONArray access$0(com.ludashi.adapter.BookAdapter) -> a
+com.ludashi.adapter.BookAdapter$1 -> com.ludashi.adapter.k:
+    com.ludashi.adapter.BookAdapter this$0 -> a
+    void run() -> run
+com.ludashi.adapter.BookAdapter$2 -> com.ludashi.adapter.l:
+    com.ludashi.adapter.BookAdapter this$0 -> a
+    void run() -> run
+com.ludashi.adapter.BookAdapter$3 -> com.ludashi.adapter.j:
+    com.ludashi.adapter.BookAdapter this$0 -> a
+    void run() -> run
+com.ludashi.adapter.BookAdapter$ViewHolder -> com.ludashi.adapter.n:
+    android.widget.ImageView icn -> a
+    android.widget.TextView tv -> b
+    com.ludashi.adapter.BookAdapter this$0 -> c
+com.ludashi.adapter.DownAdapter -> com.ludashi.adapter.m:
+    android.content.Context context -> a
+    org.json.JSONArray data -> b
+    java.io.File f -> c
+    android.graphics.Bitmap[] icon -> d
+    com.ludashi.tool.Rms rms -> e
+    java.lang.String path -> f
+    int completem -> g
+    java.text.DecimalFormat fnum -> h
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    int getItemViewType(int) -> getItemViewType
+    void toUpdata() -> b
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    void onConnectionEndListener() -> a
+    boolean delAllFile(java.lang.String) -> a
+    android.content.Context access$0(com.ludashi.adapter.DownAdapter) -> a
+    com.ludashi.tool.Rms access$1(com.ludashi.adapter.DownAdapter) -> b
+    java.lang.String access$2(com.ludashi.adapter.DownAdapter) -> c
+    boolean access$3(com.ludashi.adapter.DownAdapter,java.lang.String) -> a
+com.ludashi.adapter.DownAdapter$1 -> com.ludashi.adapter.c:
+    com.ludashi.adapter.DownAdapter this$0 -> a
+    org.json.JSONObject val$json -> b
+    void onClick(android.view.View) -> onClick
+com.ludashi.adapter.DownAdapter$2 -> com.ludashi.adapter.d:
+    com.ludashi.adapter.DownAdapter this$0 -> a
+    org.json.JSONObject val$json -> b
+    void onClick(android.view.View) -> onClick
+com.ludashi.adapter.DownAdapter$3 -> com.ludashi.adapter.e:
+    com.ludashi.adapter.DownAdapter this$0 -> a
+    org.json.JSONObject val$json -> b
+    void onClick(android.view.View) -> onClick
+com.ludashi.adapter.DownAdapter$4 -> com.ludashi.adapter.f:
+    com.ludashi.adapter.DownAdapter this$0 -> a
+    org.json.JSONObject val$json -> b
+    void onClick(android.view.View) -> onClick
+com.ludashi.adapter.DownAdapter$ViewIng -> com.ludashi.adapter.i:
+    android.widget.ImageView icn -> a
+    android.widget.TextView name -> b
+    android.widget.TextView se -> c
+    android.widget.ProgressBar pg -> d
+    android.widget.Button play -> e
+    android.widget.Button delete -> f
+    com.ludashi.adapter.DownAdapter this$0 -> g
+com.ludashi.adapter.EmptyViewMethodAccessor -> com.ludashi.adapter.p:
+    void setEmptyViewInternal(android.view.View) -> a
+com.ludashi.adapter.ImageAdapter -> com.ludashi.adapter.a:
+    android.content.Context context -> a
+    java.lang.String name -> b
+    java.io.File dir -> c
+    int getCount() -> getCount
+    java.lang.Object getItem(int) -> getItem
+    long getItemId(int) -> getItemId
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    void onConnectionEndListener() -> a
+com.ludashi.adapter.LoadingLayout -> com.ludashi.adapter.g:
+    android.widget.ImageView headerImage -> a
+    android.widget.ProgressBar headerProgress -> b
+    java.lang.String pullLabel -> c
+    java.lang.String refreshingLabel -> d
+    java.lang.String releaseLabel -> e
+    android.view.animation.Animation rotateAnimation -> f
+    android.view.animation.Animation resetRotateAnimation -> g
+    void reset() -> a
+    void releaseToRefresh() -> b
+    void refreshing() -> c
+    void pullToRefresh() -> d
+com.ludashi.adapter.PullToRefreshAdapterViewBase -> com.ludashi.adapter.PullToRefreshAdapterViewBase:
+    int lastSavedFirstVisibleItem -> b
+    android.widget.AbsListView$OnScrollListener onScrollListener -> c
+    com.ludashi.adapter.PullToRefreshBase$OnLastItemVisibleListener onLastItemVisibleListener -> d
+    android.view.View emptyView -> e
+    android.widget.FrameLayout refreshableViewHolder -> f
+    void onScroll(android.widget.AbsListView,int,int,int) -> onScroll
+    void onScrollStateChanged(android.widget.AbsListView,int) -> onScrollStateChanged
+    void setEmptyView(android.view.View) -> a
+    boolean isReadyForPullDown() -> a
+    boolean isReadyForPullUp() -> b
+    void addRefreshableView(android.content.Context,android.view.View) -> a
+com.ludashi.adapter.PullToRefreshBase -> com.ludashi.adapter.PullToRefreshBase:
+    int touchSlop -> b
+    float initialMotionY -> c
+    float lastMotionX -> d
+    float lastMotionY -> e
+    boolean isBeingDragged -> f
+    int state -> g
+    int mode -> h
+    int currentMode -> i
+    boolean disableScrollingWhileRefreshing -> j
+    android.view.View refreshableView -> a
+    boolean isPullToRefreshEnabled -> k
+    com.ludashi.adapter.LoadingLayout headerLayout -> l
+    com.ludashi.adapter.LoadingLayout footerLayout -> m
+    int headerHeight -> n
+    android.os.Handler handler -> o
+    com.ludashi.adapter.PullToRefreshBase$OnRefreshListener onRefreshListener -> p
+    com.ludashi.adapter.PullToRefreshBase$SmoothScrollRunnable currentSmoothScrollRunnable -> q
+    android.view.View getRefreshableView() -> c
+    boolean isRefreshing() -> e
+    void onRefreshComplete() -> d
+    void setOnRefreshListener(com.ludashi.adapter.PullToRefreshBase$OnRefreshListener) -> a
+    boolean onTouchEvent(android.view.MotionEvent) -> onTouchEvent
+    boolean onInterceptTouchEvent(android.view.MotionEvent) -> onInterceptTouchEvent
+    void addRefreshableView(android.content.Context,android.view.View) -> a
+    android.view.View createRefreshableView(android.content.Context,android.util.AttributeSet) -> a
+    boolean isReadyForPullDown() -> a
+    boolean isReadyForPullUp() -> b
+    void smoothScrollTo(int) -> a
+    void measureView(android.view.View) -> a
+    boolean isReadyForPull() -> f
+    void setLongClickable(boolean) -> setLongClickable
+com.ludashi.adapter.PullToRefreshBase$OnLastItemVisibleListener -> com.ludashi.adapter.o:
+com.ludashi.adapter.PullToRefreshBase$OnRefreshListener -> com.ludashi.adapter.h:
+    void onRefresh() -> a
+com.ludashi.adapter.PullToRefreshBase$SmoothScrollRunnable -> com.ludashi.adapter.q:
+    android.view.animation.Interpolator interpolator -> a
+    int scrollToY -> b
+    int scrollFromY -> c
+    android.os.Handler handler -> d
+    boolean continueRunning -> e
+    long startTime -> f
+    int currentY -> g
+    com.ludashi.adapter.PullToRefreshBase this$0 -> h
+    void run() -> run
+    void stop() -> a
+com.ludashi.adapter.PullToRefreshGridView -> com.ludashi.adapter.PullToRefreshGridView:
+    android.view.ContextMenu$ContextMenuInfo getContextMenuInfo() -> getContextMenuInfo
+    android.view.View createRefreshableView(android.content.Context,android.util.AttributeSet) -> a
+com.ludashi.adapter.PullToRefreshGridView$InternalGridView -> com.ludashi.adapter.b:
+    com.ludashi.adapter.PullToRefreshGridView this$0 -> a
+    void setEmptyView(android.view.View) -> setEmptyView
+    void setEmptyViewInternal(android.view.View) -> a
+    android.view.ContextMenu$ContextMenuInfo getContextMenuInfo() -> getContextMenuInfo
+com.ludashi.mains.AddBookMarkDlg -> com.ludashi.mains.al:
+    android.widget.Button btnConfirm -> a
+    android.widget.Button btnCancel -> b
+    android.widget.EditText editMarkName -> c
+    java.lang.String markName -> d
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.BookContent -> com.ludashi.mains.d:
+    android.view.View view -> a
+    android.content.Context context -> b
+    android.widget.ImageView dbutten -> c
+    android.widget.ImageView icon -> d
+    android.widget.ImageView content_iamge -> e
+    android.view.View loading -> f
+    java.lang.String data -> g
+    java.lang.String book_id -> h
+    android.widget.TextView title -> i
+    android.widget.TextView author -> j
+    android.widget.TextView time -> k
+    android.widget.TextView desc -> l
+    org.json.JSONObject downUrl -> m
+    android.view.View$OnClickListener on -> n
+    void onConnectionEndListener() -> a
+    android.widget.ImageView access$0(com.ludashi.mains.BookContent) -> a
+    org.json.JSONObject access$1(com.ludashi.mains.BookContent) -> b
+    java.lang.String access$2(com.ludashi.mains.BookContent) -> c
+    android.content.Context access$3(com.ludashi.mains.BookContent) -> d
+    void access$4(com.ludashi.mains.BookContent,java.lang.String) -> a
+    java.lang.String access$5(com.ludashi.mains.BookContent) -> e
+    void access$6(com.ludashi.mains.BookContent,android.view.View) -> a
+    android.view.View access$7(com.ludashi.mains.BookContent) -> f
+    android.view.View$OnClickListener access$8(com.ludashi.mains.BookContent) -> g
+    void access$9(com.ludashi.mains.BookContent,android.widget.ImageView) -> a
+    void access$10(com.ludashi.mains.BookContent,android.widget.TextView) -> a
+    void access$11(com.ludashi.mains.BookContent,android.widget.TextView) -> b
+    void access$12(com.ludashi.mains.BookContent,android.widget.TextView) -> c
+    void access$13(com.ludashi.mains.BookContent,android.widget.TextView) -> d
+    void access$14(com.ludashi.mains.BookContent,android.widget.ImageView) -> b
+    void access$15(com.ludashi.mains.BookContent,android.widget.ImageView) -> c
+    void access$16(com.ludashi.mains.BookContent,org.json.JSONObject) -> a
+    android.widget.TextView access$17(com.ludashi.mains.BookContent) -> h
+    android.widget.TextView access$18(com.ludashi.mains.BookContent) -> i
+    android.widget.TextView access$19(com.ludashi.mains.BookContent) -> j
+    android.widget.TextView access$20(com.ludashi.mains.BookContent) -> k
+    android.widget.ImageView access$21(com.ludashi.mains.BookContent) -> l
+    android.widget.ImageView access$22(com.ludashi.mains.BookContent) -> m
+com.ludashi.mains.BookContent$1 -> com.ludashi.mains.ao:
+    com.ludashi.mains.BookContent this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.BookContent$2 -> com.ludashi.mains.am:
+    com.ludashi.mains.BookContent this$0 -> a
+    void run() -> run
+com.ludashi.mains.BookContent$2$1 -> com.ludashi.mains.ap:
+    com.ludashi.mains.BookContent$2 this$1 -> a
+    void run() -> run
+com.ludashi.mains.BookContent$2$1$1 -> com.ludashi.mains.aq:
+    com.ludashi.mains.BookContent$2$1 this$2 -> a
+    void run() -> run
+com.ludashi.mains.BookContent$3 -> com.ludashi.mains.an:
+    com.ludashi.mains.BookContent this$0 -> a
+    void run() -> run
+com.ludashi.mains.BookMarkActivity -> com.ludashi.mains.BookMarkActivity:
+    android.widget.Button btnAdd -> g
+    android.widget.Button btnClear -> h
+    android.widget.Button btnGo -> i
+    com.ludashi.mains.AddBookMarkDlg addBookMarkDlg -> a
+    android.view.View$OnClickListener oclClick -> j
+    com.ludashi.mains.BookMarkDBHelper dbHelper -> k
+    android.database.sqlite.SQLiteDatabase db -> b
+    android.database.Cursor c -> c
+    android.widget.Spinner s -> l
+    java.lang.String bookName -> d
+    int position -> e
+    int markGo -> f
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void onDestroy() -> onDestroy
+    void updateSpinner() -> a
+com.ludashi.mains.BookMarkActivity$1 -> com.ludashi.mains.ai:
+    com.ludashi.mains.BookMarkActivity this$0 -> a
+    void onDismiss(android.content.DialogInterface) -> onDismiss
+com.ludashi.mains.BookMarkActivity$2 -> com.ludashi.mains.aj:
+    com.ludashi.mains.BookMarkActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.BookMarkActivity$3 -> com.ludashi.mains.ae:
+    com.ludashi.mains.BookMarkActivity this$0 -> a
+    int val$markIdx -> b
+    void onItemSelected(android.widget.AdapterView,android.view.View,int,long) -> onItemSelected
+    void onNothingSelected(android.widget.AdapterView) -> onNothingSelected
+com.ludashi.mains.BookMarkDBHelper -> com.ludashi.mains.ak:
+    void onCreate(android.database.sqlite.SQLiteDatabase) -> onCreate
+    void onUpgrade(android.database.sqlite.SQLiteDatabase,int,int) -> onUpgrade
+com.ludashi.mains.CustomTxtView -> com.ludashi.mains.CustomTxtView:
+    boolean bIsBeginSelecting -> a
+    int line -> b
+    int off -> c
+    boolean getDefaultEditable() -> getDefaultEditable
+    boolean onTouchEvent(android.view.MotionEvent) -> onTouchEvent
+    void clearSelection() -> a
+com.ludashi.mains.FlingGalleryView -> com.ludashi.mains.FlingGalleryView:
+    int mCurrentScreen -> a
+    android.widget.Scroller mScroller -> b
+    android.view.VelocityTracker mVelocityTracker -> c
+    float mLastMotionX -> d
+    int mTouchState -> e
+    int mTouchSlop -> f
+    int mMaximumVelocity -> g
+    com.ludashi.mains.FlingGalleryView$OnScrollToScreenListener mScrollToScreenListener -> h
+    boolean isEveryScreen -> i
+    int count -> j
+    int defaultScreen -> k
+    android.view.View$OnTouchListener childTouchListener -> l
+    void computeScroll() -> computeScroll
+    void onMeasure(int,int) -> onMeasure
+    void onLayout(boolean,int,int,int,int) -> onLayout
+    boolean onTouchEvent(android.view.MotionEvent) -> onTouchEvent
+    void snapToScreen(int,boolean) -> a
+    void setToScreen$2563266(int) -> a
+    void setDefaultScreen(int) -> b
+com.ludashi.mains.FlingGalleryView$1 -> com.ludashi.mains.q:
+    com.ludashi.mains.FlingGalleryView this$0 -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.ludashi.mains.FlingGalleryView$OnScrollToScreenListener -> com.ludashi.mains.s:
+com.ludashi.mains.LuDaShiActivity -> com.ludashi.mains.LuDaShiActivity:
+    int MENU -> d
+    int MENU_NEW -> e
+    int MENU_CLASS -> f
+    android.content.Context context -> g
+    com.ludashi.mains.FlingGalleryView fgv_list_main -> h
+    int screenIndex -> a
+    android.view.ViewGroup[] main_tab_item -> i
+    android.view.ViewGroup[] main_view -> j
+    int[] screenitem -> k
+    int[] screenitemed -> l
+    android.widget.GridView book_new -> m
+    android.widget.GridView book_class -> n
+    android.widget.GridView book_list -> o
+    com.ludashi.adapter.BookAdapter bk_new -> p
+    com.ludashi.adapter.BookAdapter bk_class -> q
+    com.ludashi.adapter.BookAdapter bk_list -> r
+    android.view.View view_class -> s
+    android.widget.FrameLayout book_content_new -> t
+    android.widget.FrameLayout book_content_class -> u
+    android.widget.ImageView search -> v
+    android.widget.ListView downlist -> w
+    com.ludashi.adapter.DownAdapter dap -> x
+    android.app.Dialog management_dg -> y
+    android.view.View management_dg_content -> z
+    com.ludashi.tool.HttpGetData httpget -> A
+    org.json.JSONArray data_new -> B
+    org.json.JSONArray data_class -> C
+    org.json.JSONArray data_class_content -> D
+    android.view.View loading -> E
+    com.ludashi.tool.Rms rms -> F
+    android.widget.TextView title -> G
+    java.lang.String titleing -> H
+    android.os.Handler handler -> I
+    com.ludashi.tool.Downloader dl -> b
+    boolean downing_look -> J
+    com.ludashi.mains.LuDaShiActivity$RefreshHandler mRefreshHandler -> K
+    android.view.View$OnClickListener tabClickListener -> L
+    com.ludashi.adapter.PullToRefreshGridView mPullRefreshGridView -> M
+    int class_id -> N
+    int maxbook -> O
+    android.widget.AdapterView$OnItemClickListener oni -> P
+    android.app.Dialog dialog -> c
+    android.view.View$OnClickListener on -> Q
+    int page -> R
+    void onCreate(android.os.Bundle) -> onCreate
+    void setState(int) -> b
+    void init() -> a
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    void onDestroy() -> onDestroy
+    org.json.JSONArray getDataJson(java.lang.String) -> b
+    android.view.ViewGroup[] access$0(com.ludashi.mains.LuDaShiActivity) -> a
+    int[] access$1(com.ludashi.mains.LuDaShiActivity) -> b
+    android.widget.TextView access$2(com.ludashi.mains.LuDaShiActivity) -> c
+    int access$3() -> b
+    java.lang.String access$4(com.ludashi.mains.LuDaShiActivity) -> d
+    android.app.Dialog access$5(com.ludashi.mains.LuDaShiActivity) -> e
+    android.content.Context access$6(com.ludashi.mains.LuDaShiActivity) -> f
+    void access$7(com.ludashi.mains.LuDaShiActivity,android.app.Dialog) -> a
+    void access$8(com.ludashi.mains.LuDaShiActivity,android.view.View) -> a
+    android.view.View access$9(com.ludashi.mains.LuDaShiActivity) -> g
+    int access$10$6d549c60(com.ludashi.mains.LuDaShiActivity) -> h
+    int[] access$11(com.ludashi.mains.LuDaShiActivity) -> i
+    com.ludashi.mains.FlingGalleryView access$12(com.ludashi.mains.LuDaShiActivity) -> j
+    android.widget.GridView access$13(com.ludashi.mains.LuDaShiActivity) -> k
+    org.json.JSONArray access$14(com.ludashi.mains.LuDaShiActivity) -> l
+    void access$15(com.ludashi.mains.LuDaShiActivity,android.widget.FrameLayout) -> a
+    android.view.ViewGroup[] access$16(com.ludashi.mains.LuDaShiActivity) -> m
+    android.widget.FrameLayout access$17(com.ludashi.mains.LuDaShiActivity) -> n
+    void access$18$6d54a7b0() -> c
+    android.widget.GridView access$19(com.ludashi.mains.LuDaShiActivity) -> o
+    org.json.JSONArray access$20(com.ludashi.mains.LuDaShiActivity) -> p
+    void access$21(com.ludashi.mains.LuDaShiActivity,int) -> a
+    void access$22(com.ludashi.mains.LuDaShiActivity,java.lang.String) -> a
+    android.view.View access$23(com.ludashi.mains.LuDaShiActivity) -> q
+    com.ludashi.tool.HttpGetData access$24(com.ludashi.mains.LuDaShiActivity) -> r
+    int access$25(com.ludashi.mains.LuDaShiActivity) -> s
+    org.json.JSONArray access$26$2c8de2d3(java.lang.String) -> a
+    void access$27(com.ludashi.mains.LuDaShiActivity,org.json.JSONArray) -> a
+    org.json.JSONArray access$28(com.ludashi.mains.LuDaShiActivity) -> t
+    void access$29(com.ludashi.mains.LuDaShiActivity,android.view.View) -> b
+    android.view.View access$30(com.ludashi.mains.LuDaShiActivity) -> u
+    android.view.View$OnClickListener access$31(com.ludashi.mains.LuDaShiActivity) -> v
+    void access$32(com.ludashi.mains.LuDaShiActivity,com.ludashi.adapter.PullToRefreshGridView) -> a
+    com.ludashi.adapter.PullToRefreshGridView access$33(com.ludashi.mains.LuDaShiActivity) -> w
+    void access$34(com.ludashi.mains.LuDaShiActivity,android.widget.GridView) -> a
+    void access$35(com.ludashi.mains.LuDaShiActivity,com.ludashi.adapter.BookAdapter) -> a
+    android.widget.GridView access$36(com.ludashi.mains.LuDaShiActivity) -> x
+    com.ludashi.adapter.BookAdapter access$37(com.ludashi.mains.LuDaShiActivity) -> y
+    android.widget.AdapterView$OnItemClickListener access$38(com.ludashi.mains.LuDaShiActivity) -> z
+    void access$39$6d54a7b0(int) -> a
+    void access$40(com.ludashi.mains.LuDaShiActivity,android.widget.FrameLayout) -> b
+    android.widget.FrameLayout access$41(com.ludashi.mains.LuDaShiActivity) -> A
+    android.widget.ImageView access$42(com.ludashi.mains.LuDaShiActivity) -> B
+    void access$43(com.ludashi.mains.LuDaShiActivity,org.json.JSONArray) -> b
+    void access$44(com.ludashi.mains.LuDaShiActivity,org.json.JSONArray) -> c
+    void access$45$6d54a7b0(com.ludashi.mains.LuDaShiActivity) -> C
+    android.os.Handler access$46(com.ludashi.mains.LuDaShiActivity) -> D
+    com.ludashi.adapter.DownAdapter access$47(com.ludashi.mains.LuDaShiActivity) -> E
+    boolean access$48(com.ludashi.mains.LuDaShiActivity) -> F
+com.ludashi.mains.LuDaShiActivity$1 -> com.ludashi.mains.f:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.LuDaShiActivity$1$1 -> com.ludashi.mains.u:
+    com.ludashi.mains.LuDaShiActivity$1 this$1 -> a
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.LuDaShiActivity$1$2 -> com.ludashi.mains.w:
+    com.ludashi.mains.LuDaShiActivity$1 this$1 -> a
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.LuDaShiActivity$2 -> com.ludashi.mains.g:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+com.ludashi.mains.LuDaShiActivity$2$1 -> com.ludashi.mains.a:
+    com.ludashi.mains.LuDaShiActivity$2 this$1 -> a
+    void run() -> run
+com.ludashi.mains.LuDaShiActivity$2$1$1 -> com.ludashi.mains.i:
+    com.ludashi.mains.LuDaShiActivity$2$1 this$2 -> a
+    void run() -> run
+com.ludashi.mains.LuDaShiActivity$2$1$1$1 -> com.ludashi.mains.y:
+    com.ludashi.mains.LuDaShiActivity$2$1$1 this$3 -> a
+    void onRefresh() -> a
+com.ludashi.mains.LuDaShiActivity$3 -> com.ludashi.mains.h:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.LuDaShiActivity$4 -> com.ludashi.mains.j:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.LuDaShiActivity$5 -> com.ludashi.mains.k:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.LuDaShiActivity$6 -> com.ludashi.mains.l:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    void handleMessage(android.os.Message) -> handleMessage
+com.ludashi.mains.LuDaShiActivity$GetDataTask -> com.ludashi.mains.c:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    java.lang.String[] doInBackground$3484f80a() -> a
+    void onPostExecute(java.lang.Object) -> onPostExecute
+    java.lang.Object doInBackground(java.lang.Object[]) -> doInBackground
+com.ludashi.mains.LuDaShiActivity$RefreshHandler -> com.ludashi.mains.z:
+    com.ludashi.mains.LuDaShiActivity this$0 -> a
+    void handleMessage(android.os.Message) -> handleMessage
+com.ludashi.mains.LuDaShiActivity$RefreshHandler$1 -> com.ludashi.mains.e:
+    com.ludashi.mains.LuDaShiActivity$RefreshHandler this$1 -> a
+    void run() -> run
+com.ludashi.mains.R -> com.ludashi.mains.b:
+com.ludashi.mains.R$styleable -> com.ludashi.mains.ar:
+    int[] FlingGalleryView -> a
+    int[] Gallery1 -> c
+    int[] PullToRefresh -> b
+com.ludashi.mains.ReadBook -> com.ludashi.mains.ReadBook:
+    int REQUST_CODE_GOTO_BOOKMARK -> e
+    com.ludashi.mains.CustomTxtView tvMain -> a
+    java.lang.String strSelection -> b
+    java.lang.String strTxt -> c
+    java.lang.String strPath -> f
+    int position -> g
+    int markPos -> h
+    int BUFFER_SIZE -> i
+    int SCROLL_STEP -> j
+    int BEGIN_SCROLL -> k
+    int END_SCROLL -> l
+    int STOP_SCROLL -> m
+    int MENU_BOOKMARK -> n
+    int MENU_SEARCH -> o
+    int DIALOG_AFTER_SELECTION -> p
+    int DIALOG_GET_SEARCH_KEY_WORD -> q
+    boolean isAutoScrolling -> r
+    boolean isInSearching -> s
+    boolean hasBookMark -> t
+    android.app.ProgressDialog pdg -> u
+    android.widget.TextView tx -> v
+    java.text.DecimalFormat fnum -> w
+    android.app.Dialog dialog -> d
+    void onCreate(android.os.Bundle) -> onCreate
+    void onResume() -> onResume
+    void onClick(android.view.View) -> onClick
+    void upPage() -> a
+    boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    boolean onOptionsItemSelected(android.view.MenuItem) -> onOptionsItemSelected
+    android.app.Dialog onCreateDialog(int) -> onCreateDialog
+    void onActivityResult(int,int,android.content.Intent) -> onActivityResult
+    java.lang.String openbook(java.lang.String) -> a
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    void access$0(com.ludashi.mains.ReadBook) -> a
+    android.app.ProgressDialog access$1(com.ludashi.mains.ReadBook) -> b
+com.ludashi.mains.ReadBook$1 -> com.ludashi.mains.ad:
+    com.ludashi.mains.ReadBook this$0 -> a
+    boolean onTouch(android.view.View,android.view.MotionEvent) -> onTouch
+com.ludashi.mains.ReadBook$2 -> com.ludashi.mains.ac:
+    com.ludashi.mains.ReadBook this$0 -> a
+    void run() -> run
+com.ludashi.mains.ReadBook$2$1 -> com.ludashi.mains.t:
+    com.ludashi.mains.ReadBook$2 this$1 -> a
+    void run() -> run
+com.ludashi.mains.ReadBook$3 -> com.ludashi.mains.ab:
+    com.ludashi.mains.ReadBook this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.ReadBook$4 -> com.ludashi.mains.aa:
+    com.ludashi.mains.ReadBook this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.ReadBook$5 -> com.ludashi.mains.ah:
+    com.ludashi.mains.ReadBook this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.ReadBook$6 -> com.ludashi.mains.ag:
+    com.ludashi.mains.ReadBook this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.ReadBook$7 -> com.ludashi.mains.af:
+    com.ludashi.mains.ReadBook this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.ReadImage -> com.ludashi.mains.ReadImage:
+    com.ludashi.tool.DetialGallery gly -> b
+    com.ludashi.adapter.ImageAdapter ia -> c
+    android.content.Context context -> d
+    android.widget.TextView tx -> e
+    android.app.Dialog dialog -> a
+    void onCreate(android.os.Bundle) -> onCreate
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    android.widget.TextView access$0(com.ludashi.mains.ReadImage) -> a
+    android.content.Context access$1(com.ludashi.mains.ReadImage) -> b
+com.ludashi.mains.ReadImage$1 -> com.ludashi.mains.v:
+    com.ludashi.mains.ReadImage this$0 -> a
+    void onItemSelected(android.widget.AdapterView,android.view.View,int,long) -> onItemSelected
+    void onNothingSelected(android.widget.AdapterView) -> onNothingSelected
+com.ludashi.mains.ReadImage$2 -> com.ludashi.mains.x:
+    com.ludashi.mains.ReadImage this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.ReadImage$3 -> com.ludashi.mains.r:
+    com.ludashi.mains.ReadImage this$0 -> a
+    void onClick(android.content.DialogInterface,int) -> onClick
+com.ludashi.mains.SearchActivity -> com.ludashi.mains.SearchActivity:
+    android.widget.EditText text -> a
+    android.widget.Button search -> b
+    android.widget.FrameLayout main -> c
+    org.json.JSONArray content_search -> d
+    com.ludashi.tool.HttpGetData httpget -> e
+    android.content.Context context -> f
+    android.view.View loading -> g
+    int MENU -> h
+    android.view.View view_search -> i
+    android.view.View book_content_search -> j
+    android.widget.GridView book_list -> k
+    com.ludashi.adapter.BookAdapter bk_list -> l
+    android.view.View$OnClickListener on -> m
+    android.widget.AdapterView$OnItemClickListener oni -> n
+    void onCreate(android.os.Bundle) -> onCreate
+    boolean onKeyDown(int,android.view.KeyEvent) -> onKeyDown
+    org.json.JSONArray getDataJson(java.lang.String) -> b
+    android.widget.Button access$0(com.ludashi.mains.SearchActivity) -> a
+    android.widget.EditText access$1(com.ludashi.mains.SearchActivity) -> b
+    android.content.Context access$2(com.ludashi.mains.SearchActivity) -> c
+    com.ludashi.tool.HttpGetData access$3(com.ludashi.mains.SearchActivity) -> d
+    org.json.JSONArray access$4$543bccdd(java.lang.String) -> a
+    void access$5(com.ludashi.mains.SearchActivity,org.json.JSONArray) -> a
+    org.json.JSONArray access$6(com.ludashi.mains.SearchActivity) -> e
+    void access$7(com.ludashi.mains.SearchActivity,android.view.View) -> a
+    android.view.View access$8(com.ludashi.mains.SearchActivity) -> f
+    void access$9(com.ludashi.mains.SearchActivity,android.widget.GridView) -> a
+    void access$10(com.ludashi.mains.SearchActivity,com.ludashi.adapter.BookAdapter) -> a
+    android.widget.GridView access$11(com.ludashi.mains.SearchActivity) -> g
+    com.ludashi.adapter.BookAdapter access$12(com.ludashi.mains.SearchActivity) -> h
+    android.widget.AdapterView$OnItemClickListener access$13(com.ludashi.mains.SearchActivity) -> i
+    android.widget.FrameLayout access$14(com.ludashi.mains.SearchActivity) -> j
+    android.view.View access$15(com.ludashi.mains.SearchActivity) -> k
+    void access$16$59443146(int) -> a
+    void access$17(com.ludashi.mains.SearchActivity,android.view.View) -> b
+    android.view.View access$18(com.ludashi.mains.SearchActivity) -> l
+com.ludashi.mains.SearchActivity$1 -> com.ludashi.mains.m:
+    com.ludashi.mains.SearchActivity this$0 -> a
+    void onClick(android.view.View) -> onClick
+com.ludashi.mains.SearchActivity$1$1 -> com.ludashi.mains.n:
+    com.ludashi.mains.SearchActivity$1 this$1 -> a
+    void run() -> run
+com.ludashi.mains.SearchActivity$1$1$1 -> com.ludashi.mains.p:
+    com.ludashi.mains.SearchActivity$1$1 this$2 -> a
+    void run() -> run
+com.ludashi.mains.SearchActivity$2 -> com.ludashi.mains.o:
+    com.ludashi.mains.SearchActivity this$0 -> a
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+com.ludashi.tool.DetialGallery -> com.ludashi.tool.DetialGallery:
+    boolean onFling(android.view.MotionEvent,android.view.MotionEvent,float,float) -> onFling
+com.ludashi.tool.Downloader -> com.ludashi.tool.g:
+    java.net.URL url -> e
+    android.content.Context context -> a
+    boolean downloads -> b
+    long nFileLength -> f
+    int loads -> g
+    java.lang.String done -> c
+    long time -> h
+    java.lang.String juzilist -> i
+    boolean actapk -> j
+    java.lang.String downProgress -> k
+    int id -> l
+    java.text.DecimalFormat fnum -> m
+    org.json.JSONObject downData -> n
+    java.lang.String durl -> o
+    java.lang.String filename -> p
+    java.lang.String address -> q
+    org.json.JSONArray downing -> r
+    com.ludashi.tool.Rms rms -> s
+    java.lang.String downing_id -> d
+    int FILESIZE -> t
+    android.os.Handler mh -> u
+    java.io.RandomAccessFile savedFile -> v
+    java.net.HttpURLConnection conn -> w
+    void downFile(android.content.Context,org.json.JSONObject) -> a
+    void stopDown() -> a
+    void access$0(com.ludashi.tool.Downloader,java.net.HttpURLConnection) -> a
+    java.io.RandomAccessFile access$1(com.ludashi.tool.Downloader) -> a
+    java.net.HttpURLConnection access$2(com.ludashi.tool.Downloader) -> b
+    void access$3(com.ludashi.tool.Downloader,java.io.RandomAccessFile) -> a
+    void access$4(com.ludashi.tool.Downloader,java.net.URL) -> a
+    java.net.URL access$5(com.ludashi.tool.Downloader) -> c
+    void access$6(com.ludashi.tool.Downloader,long) -> a
+    com.ludashi.tool.Rms access$7(com.ludashi.tool.Downloader) -> d
+    long access$8(com.ludashi.tool.Downloader) -> e
+    int access$9(com.ludashi.tool.Downloader) -> f
+    void access$10(com.ludashi.tool.Downloader,long) -> b
+    void access$11(com.ludashi.tool.Downloader,int) -> a
+    void access$12(com.ludashi.tool.Downloader,java.lang.String) -> a
+    void access$14$3d109853(com.ludashi.tool.Downloader,java.lang.String) -> b
+com.ludashi.tool.Downloader$1 -> com.ludashi.tool.e:
+    boolean head -> a
+    com.ludashi.tool.Downloader this$0 -> b
+    java.lang.String val$str -> c
+    java.lang.String val$urlStr -> d
+    org.json.JSONObject val$json -> e
+    void run() -> run
+com.ludashi.tool.Downloader$2 -> com.ludashi.tool.d:
+    com.ludashi.tool.Downloader this$0 -> a
+    java.lang.String val$jindu -> b
+    void run() -> run
+com.ludashi.tool.HttpGetData -> com.ludashi.tool.a:
+    android.content.Context context -> a
+    java.lang.String http -> b
+    java.lang.String getData(java.lang.String) -> a
+com.ludashi.tool.ImageLoad -> com.ludashi.tool.f:
+    java.lang.String url -> a
+    java.lang.String name -> b
+    java.lang.String path -> c
+    int FILESIZE -> d
+    com.ludashi.tool.OnConnectionEndListener li -> e
+    void setImageLoad(java.lang.String,com.ludashi.tool.OnConnectionEndListener) -> a
+    void run() -> a
+com.ludashi.tool.MyZipUtil -> com.ludashi.tool.b:
+    java.util.ArrayList upZipSelectedFile(java.io.File,java.lang.String) -> a
+com.ludashi.tool.OnConnectionEndListener -> com.ludashi.tool.i:
+    void onConnectionEndListener() -> a
+com.ludashi.tool.Parameter -> com.ludashi.tool.c:
+    android.graphics.Bitmap getImgae(java.lang.String) -> a
+com.ludashi.tool.Rms -> com.ludashi.tool.j:
+    java.lang.String record -> a
+    android.content.Context context -> b
+    java.lang.String loadDown() -> b
+    boolean inquiryDown(org.json.JSONObject) -> c
+    org.json.JSONArray getDownJson() -> a
+    void saveDown(org.json.JSONObject) -> a
+    boolean deleteDown(org.json.JSONObject) -> b
+    void sDown(java.lang.String) -> a
+com.ludashi.tool.ToolUtil -> com.ludashi.tool.h:
+    java.lang.String getSDPath() -> a
+    boolean isNet(android.content.Context) -> a

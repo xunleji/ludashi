@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 书签Activity的Layout  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@color/gray"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="60dip"
+    >
+	<LinearLayout 
+		android:orientation="vertical" 
+		android:layout_height="wrap_content" 
+		android:layout_width="fill_parent" 
+		android:layout_gravity="center">
+  		<TextView 
+  			android:text="@string/bookmark_txt_title" 
+  			android:layout_height="wrap_content" 
+  			android:layout_width="wrap_content" 
+  			android:layout_gravity="center" 
+  			android:layout_marginBottom="30dip" 
+  			android:textSize="24sp" /> 
+  		<Button 
+  			android:id="@+id/bookmark_btn_add" 
+  			android:layout_width="fill_parent" 
+  			android:layout_height="wrap_content" 
+  			android:text="@string/bookmark_btn_add" /> 
+	
+    	<Spinner 
+        	android:id="@+id/bookmark_spinner_list" 
+        	android:layout_width="fill_parent" 
+        	android:layout_height="wrap_content"/>	
+        	
+  		<Button 
+  			android:id="@+id/bookmark_btn_go" 
+  			android:layout_width="fill_parent" 
+  			android:layout_height="wrap_content" 
+  			android:text="@string/bookmark_btn_go" /> 	
+       	<Button 
+  			android:id="@+id/bookmark_btn_clear" 
+  			android:layout_width="fill_parent" 
+  			android:layout_height="wrap_content" 
+  			android:text="@string/bookmark_btn_clear" /> 					
+  </LinearLayout>
+</LinearLayout>
